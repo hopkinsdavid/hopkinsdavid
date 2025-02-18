@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hopkinsdavid
-- 🌱 I’m currently learning OOP languages
+- 🌱 I’m currently learning OOP 
 - 📫 DM me on Instagram @hopkinsdaviid 
 - ⚡ Fun fact: I like economics too
 
