@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @hopkinsdavid
-- 🌱 I’m currently learning OOP 
 - 📫 DM me on Instagram @hopkinsdaviid 
-- ⚡ Fun fact: I like economics too
+- ⚡ Fun fact: Economics and building life-changing apps is fun!
 
 <!---
 hopkinsdavid/hopkinsdavid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
